@@ -16,7 +16,7 @@
 <li>
 <p><strong>Days 4-7: Common Phrases and Introductions</strong></p>
 <ul>
-<li>Learn greetings, farewells, and basic conversational phrases. <a href="Day%204-7">link</a></li>
+<li>Learn greetings, farewells, and basic conversational phrases. </li>
 <li>Practice introducing yourself and asking simple questions.</li>
 <li>Use language exchange apps like Tandem or HelloTalk to start applying what you’ve learned in conversations with native speakers.</li>
 </ul>
