@@ -1,5 +1,7 @@
 For Days 1-3 of your Spanish learning journey, focusing on the alphabet, pronunciation rules, and essential phonetics is crucial for building a strong foundation. Here are some detailed tips and strategies to maximize your learning during these initial days.
 
+[Back to index](30-Day-Intensive-Spanish-Learning-Plan-Basics-to-Conversational-Fluency.md)
+
 ### Day 1: The Spanish Alphabet and Sounds
 
 - **Familiarize Yourself with the Alphabet**: Spanish uses the same letters as the English alphabet but has a few additional characters (ñ, ll, and sometimes ch). Start by learning the names and sounds of each letter.
