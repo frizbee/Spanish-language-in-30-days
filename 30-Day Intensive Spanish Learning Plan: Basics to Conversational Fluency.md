@@ -4,11 +4,11 @@ Learning Spanish or any new language within a month is an ambitious goal, especi
 ### Week 1: Foundations and Basic Phrases
 
 - **Days 1-3: Basics and Pronunciation**
-  - Focus on the Spanish alphabet, pronunciation rules, and essential phonetics. Use apps like Duolingo, Rosetta Stone, or Babbel for guided lessons. [link](Day-1-3)
+  - Focus on the Spanish alphabet, pronunciation rules, and essential phonetics. Use apps like Duolingo, Rosetta Stone, or Babbel for guided lessons. [link](Day-1-3.md)
   - Practice with YouTube channels dedicated to Spanish pronunciation.
 
 - **Days 4-7: Common Phrases and Introductions**
-  - Learn greetings, farewells, and basic conversational phrases. [link](Day%204-7)
+  - Learn greetings, farewells, and basic conversational phrases. [link](Day-4-7.md)
   - Practice introducing yourself and asking simple questions.
   - Use language exchange apps like Tandem or HelloTalk to start applying what you've learned in conversations with native speakers.
 
